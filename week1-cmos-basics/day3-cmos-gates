@@ -1,0 +1,18 @@
+# Day 3 — CMOS Gates (NAND, NOR)
+
+## What I Studied
+- CMOS NAND gate: 2 PMOS parallel + 2 NMOS series
+- CMOS NOR gate: 2 PMOS series + 2 NMOS parallel
+- Why NAND is faster than NOR
+
+## LTSpice Simulation
+- Built NAND and NOR gate in LTSpice
+- Verified truth table through waveform output
+
+![NAND Simulation](../images/day3-nand-waveform.png)
+
+## Key Takeaway
+Output of NAND = 0 only when both inputs = 1
+
+## Quiz Score
+Week 1 Quiz: 24/30
