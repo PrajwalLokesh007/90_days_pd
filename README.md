@@ -27,7 +27,7 @@ Target: Crack a PD internship / fresher role at a product-based semiconductor co
 | 5  | Jun 25 | W1 | CMOS Power — dynamic, static, leakage | ✅ |
 | 6  | Jun 26 | W1 | Linux basics for PD | ✅ |
 | 7  | Jun 27 | W1 | Week 1 Revision + Quiz | ✅ |
-| 8  | Jun 28 | W2 | Combinational Logic — Adders, MUX, Decoder | 🔲 |
+| 8  | Jun 28 | W2 | Combinational Logic — Adders, MUX, Decoder | ✅ |
 | 9  | Jun 29 | W2 | Sequential Logic — Flip-Flops, Registers | 🔲 |
 | 10 | Jun 30 | W2 | Timing deep dive + worked problems | 🔲 |
 | 11 | Jul 01 | W2 | VLSI Design Hierarchy | 🔲 |
